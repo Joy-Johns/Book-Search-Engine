@@ -63,10 +63,10 @@ export const REMOVE_BOOK = gql`
 
 
 
-LOGIN_USER will execute the loginUser mutation set up using Apollo Server.
+//LOGIN_USER will execute the loginUser mutation set up using Apollo Server.
 
-ADD_USER will execute the addUser mutation.
+//ADD_USER will execute the addUser mutation.
 
-SAVE_BOOK will execute the saveBook mutation.
+//SAVE_BOOK will execute the saveBook mutation.
 
-REMOVE_BOOK will execute the removeBook mutation.
+//REMOVE_BOOK will execute the removeBook mutation.
